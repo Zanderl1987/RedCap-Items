@@ -1,0 +1,42 @@
+<table class = 'basal_plus_bolus_history'>
+    <tr>
+        <th>Date</th>
+        <th>Basal plus bolus (units)</th>
+
+    </tr>
+    <tr>
+
+        <td><div class='shazam'>dmh_030</div></td> <!-- including shazam-icons will add the history / data quality icons -->
+        <td><div class='shazam'>dmh_031</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_032</td>
+        <td class='shazam'>dmh_033</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_034</td>
+        <td class='shazam'>dmh_035</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_036</td>
+        <td class='shazam'>dmh_037</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_038</td>
+        <td class='shazam'>dmh_039</td>
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_040</td>
+        <td class='shazam'>dmh_041</td>
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_042</td>
+        <td class='shazam'>dmh_043</td>
+    </tr>
+
+
+</table>
