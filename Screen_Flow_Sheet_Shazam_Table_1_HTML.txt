@@ -1,0 +1,32 @@
+<table class = 'basal_insulin_history'>
+    <tr>
+        <th>Vital Signs</th>
+        <th>Vital Signs</th>
+    </tr>
+
+    <tr>
+        <th><div class='shazam'>sfs_005:label</div></th>
+        <td><div class='shazam'>sfs_005</div></td>
+    </tr>
+
+    <tr>
+        <th class='shazam'>sfs_006:label</th>
+        <td class='shazam'>sfs_006</td>
+    </tr>
+    
+    <tr>
+        <th class='shazam'>sfs_007:label</th>
+        <td class='shazam'>sfs_007</td>
+    </tr>
+    
+    <tr>
+        <th class='shazam'>sfs_008:label</th>
+        <td class='shazam'>sfs_008</td>
+    </tr>
+
+    <tr>
+        <th class='shazam'>sfs_009:label</th>
+        <td class='shazam'>sfs_009</td>
+    </tr>
+
+</table>
