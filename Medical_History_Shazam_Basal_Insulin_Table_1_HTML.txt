@@ -1,0 +1,41 @@
+<table class = 'basal_insulin_history'>
+    <tr>
+        <th>Date</th>
+        <th>Basal insulin (units)</th>
+
+    </tr>
+    <tr>
+
+        <td><div class='shazam'>dmh_044</div></td> <!-- including shazam-icons will add the history / data quality icons -->
+        <td><div class='shazam'>dmh_045</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_046</td>
+        <td class='shazam'>dmh_047</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_048</td>
+        <td class='shazam'>dmh_049</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_050</td>
+        <td class='shazam'>dmh_051</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_052</td>
+        <td class='shazam'>dmh_053</td>
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_054</td>
+        <td class='shazam'>dmh_055</td>
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_056</td>
+        <td class='shazam'>dmh_057</td>
+    </tr>
+
+</table>
