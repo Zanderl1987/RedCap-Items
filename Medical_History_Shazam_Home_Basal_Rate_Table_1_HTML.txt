@@ -1,0 +1,58 @@
+<table class = 'home_basal_rate_settings_table'>
+    <tr>
+        <th>Time Segment</th>
+        <th>Basal Rate (u/hr)</th>
+    </tr>
+
+    <tr>
+
+        <td><div class='shazam'>dmh_062</div></td>
+        <td><div class='shazam'>dmh_083</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_084</td>
+        <td class='shazam'>dmh_085</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_086</td>
+        <td class='shazam'>dmh_087</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_088</td>
+        <td class='shazam'>dmh_089</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_090</td>
+        <td class='shazam'>dmh_091</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_092</td>
+        <td class='shazam'>dmh_093</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_094</td>
+        <td class='shazam'>dmh_095</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_104</td>
+        <td class='shazam'>dmh_105</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_106</td>
+        <td class='shazam'>dmh_107</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_108</td>
+        <td class='shazam'>dmh_109</td>
+    </tr>    
+    
+</table>
