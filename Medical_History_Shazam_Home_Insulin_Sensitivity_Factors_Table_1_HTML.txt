@@ -1,0 +1,33 @@
+<table class = 'home_insulin_sensitivity_factors_table'>
+    <tr>
+        <th>Time Segment</th>
+        <th>Insulin Sensitivity Factor (Correction Factor)</th>
+    </tr>
+
+    <tr>
+
+        <td><div class='shazam'>dmh_063</div></td>
+        <td><div class='shazam'>dmh_064</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_096</td>
+        <td class='shazam'>dmh_097</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_110</td>
+        <td class='shazam'>dmh_111</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_112</td>
+        <td class='shazam'>dmh_113</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_114</td>
+        <td class='shazam'>dmh_115</td>
+    </tr>
+
+</table>
