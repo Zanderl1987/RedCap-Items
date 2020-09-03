@@ -1,0 +1,58 @@
+<table class = 'glucose_targets_time_of_day_table'>
+    <tr>
+        <th>Glucose target(s) by time of day</th>
+        <th>Target Blood Glucose (mg/dL)</th>
+    </tr>
+
+    <tr>
+
+        <td><div class='shazam'>dmh_066</div></td>
+        <td><div class='shazam'>dmh_067</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_068</td>
+        <td class='shazam'>dmh_069</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_116</td>
+        <td class='shazam'>dmh_117</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_118</td>
+        <td class='shazam'>dmh_119</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_120</td>
+        <td class='shazam'>dmh_121</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_122</td>
+        <td class='shazam'>dmh_123</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_124</td>
+        <td class='shazam'>dmh_125</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_126</td>
+        <td class='shazam'>dmh_127</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_128</td>
+        <td class='shazam'>dmh_129</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_130</td>
+        <td class='shazam'>dmh_131</td>
+    </tr>    
+    
+</table>
