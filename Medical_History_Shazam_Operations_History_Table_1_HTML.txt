@@ -1,0 +1,49 @@
+<table class = 'operations_table'>
+    <tr>
+        <th>Date</th>
+        <th>Operation</th>
+        <th>Recovery time (weeks)</th>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_244</div></td>
+        <td><div class='shazam'>dmh_245</div></td>
+        <td><div class='shazam'>dmh_258</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_246</div></td>
+        <td><div class='shazam'>dmh_247</div></td>
+        <td><div class='shazam'>dmh_259</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_248</div></td>
+        <td><div class='shazam'>dmh_249</div></td>
+        <td><div class='shazam'>dmh_260</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_250</div></td>
+        <td><div class='shazam'>dmh_251</div></td>
+        <td><div class='shazam'>dmh_261</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_252</div></td>
+        <td><div class='shazam'>dmh_253</div></td>
+        <td><div class='shazam'>dmh_262</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_254</div></td>
+        <td><div class='shazam'>dmh_255</div></td>
+        <td><div class='shazam'>dmh_263</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_256</div></td>
+        <td><div class='shazam'>dmh_257</div></td>
+        <td><div class='shazam'>dmh_264</div></td>
+    </tr>
+</table>
