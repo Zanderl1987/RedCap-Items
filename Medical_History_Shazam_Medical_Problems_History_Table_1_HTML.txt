@@ -1,0 +1,43 @@
+<!-- Add your Shazam HTML Here -->
+<table class = 'medical_problems_table'>
+    <tr>
+        <th>Date</th>
+        <th>Medical Problem</th>
+    </tr>
+
+    <tr>
+
+        <td><div class='shazam'>dmh_230</div></td>
+        <td><div class='shazam'>dmh_231</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_232</td>
+        <td class='shazam'>dmh_233</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_234</td>
+        <td class='shazam'>dmh_235</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_236</td>
+        <td class='shazam'>dmh_237</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_238</td>
+        <td class='shazam'>dmh_239</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_240</td>
+        <td class='shazam'>dmh_241</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_242</td>
+        <td class='shazam'>dmh_243</td>
+    </tr>
+</table>
