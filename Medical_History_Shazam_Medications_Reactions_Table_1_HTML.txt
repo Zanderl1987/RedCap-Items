@@ -1,0 +1,34 @@
+<table class = 'medication_reactions_table'>
+    <tr>
+        <th>Medication</th>
+        <th>Reaction</th>
+    </tr>
+
+    <tr>
+
+        <td><div class='shazam'>dmh_133</div></td>
+        <td><div class='shazam'>dmh_134</div></td>
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_135</td>
+        <td class='shazam'>dmh_136</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_137</td>
+        <td class='shazam'>dmh_138</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_139</td>
+        <td class='shazam'>dmh_140</td>
+    </tr>
+
+    <tr>
+        <td class='shazam'>dmh_141</td>
+        <td class='shazam'>dmh_142</td>
+    </tr>
+
+    
+</table>
