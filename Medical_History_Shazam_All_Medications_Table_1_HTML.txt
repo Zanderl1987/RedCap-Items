@@ -1,10 +1,10 @@
 <table class = 'all_medications_table'>
     <tr>
         <th>Medication Name</th>
-        <th>Dosage</th>
-        <th>Route</th>
-        <th>Frequency</th>
-        <th>Indication</th>
+        <th>Dosage (e.g. how many milligrams, how many units?)</th>
+        <th>Route (e.g. oral, nasal, inhalation)</th>
+        <th>Frequency (e.g. number of pills per day, as needed, every other day)</th>
+        <th>Indication (reason for taking medication)</th>
         <th>Date Started</th>
     </tr>
 
