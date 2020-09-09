@@ -1,0 +1,22 @@
+<table class = 'dmh_dka_dates'>
+    <tr>
+        <th>Date</th>
+      
+
+    </tr>
+    <tr>
+
+        <td><div class='shazam'>dmh_224</div></td> <!-- including shazam-icons will add the history / data quality icons -->
+
+    </tr>
+    <tr>
+        <td class='shazam'>dmh_225</td>
+    </tr>
+    
+    <tr>
+        <td class='shazam'>dmh_226</td>
+    </tr>
+    
+
+
+</table>
