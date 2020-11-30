@@ -1,0 +1,192 @@
+<!-- Add your Shazam HTML Here -->
+<!-- Add your Shazam HTML Here -->
+<table class = 'all_medications_table'>
+    <tr>
+        <th>Medication Name</th>
+        <th>Dosage (e.g. how many milligrams, how many units?)</th>
+        <th>Route (e.g. oral, nasal, inhalation)</th>
+        <th>Frequency (e.g. number of pills per day, as needed, every other day)</th>
+        <th>Indication (reason for taking medication)</th>
+        <th>Date Started</th>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_1</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_2</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_3</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_4</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_5</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_6</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_7</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_8</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_9</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_10</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_11</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_12</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_13</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_14</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_15</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_16</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_17</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_18</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_19</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_20</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_21</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_22</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_23</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_24</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_25</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_26</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_27</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_28</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_29</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_30</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_31</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_32</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_33</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_34</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_35</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_36</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_37</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_38</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_39</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_40</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_41</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_42</div></td>
+    </tr>
+ 
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_43</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_44</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_45</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_46</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_47</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_48</div></td>
+    </tr> 
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_49</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_50</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_51</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_52</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_53</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_54</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_55</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_56</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_57</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_58</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_59</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_60</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_61</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_62</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_63</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_64</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_65</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_66</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_67</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_68</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_69</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_70</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_71</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_72</div></td>
+    </tr>    
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_73</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_74</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_75</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_76</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_77</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_78</div></td>
+    </tr>    
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_79</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_80</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_81</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_82</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_83</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_84</div></td>
+    </tr>    
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_85</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_86</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_87</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_88</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_89</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_90</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_91</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_92</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_93</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_94</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_95</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_96</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_97</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_98</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_99</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_100</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_101</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_102</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_103</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_104</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_105</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_106</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_107</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_108</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_109</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_110</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_111</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_112</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_113</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_114</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_shazam_all_medications_115</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_116</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_117</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_118</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_119</div></td>
+        <td><div class='shazam'>dmh_shazam_all_medications_120</div></td>
+    </tr> 
+</table>
