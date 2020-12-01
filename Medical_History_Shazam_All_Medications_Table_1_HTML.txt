@@ -1,3 +1,5 @@
+<!-- Add your Shazam HTML Here -->
+<!-- Add your Shazam HTML Here -->
 <table class = 'all_medications_table'>
     <tr>
         <th>Medication Name</th>
@@ -9,66 +11,182 @@
     </tr>
 
     <tr>
-        <td><div class='shazam'>dmh_143</div></td>
-        <td><div class='shazam'>dmh_144</div></td>
-        <td><div class='shazam'>dmh_145</div></td>
-        <td><div class='shazam'>dmh_146</div></td>
-        <td><div class='shazam'>dmh_147</div></td>
-        <td><div class='shazam'>dmh_148</div></td>
+        <td><div class='shazam'>dmh_allmed_name_1</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_1</div></td>
+        <td><div class='shazam'>dmh_allmed_route_1</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_1</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_1</div></td>
+        <td><div class='shazam'>dmh_allmed_date_1</div></td>
     </tr>
     
     <tr>
-        <td><div class='shazam'>dmh_149</div></td>
-        <td><div class='shazam'>dmh_150</div></td>
-        <td><div class='shazam'>dmh_151</div></td>
-        <td><div class='shazam'>dmh_152</div></td>
-        <td><div class='shazam'>dmh_153</div></td>
-        <td><div class='shazam'>dmh_154</div></td>
+        <td><div class='shazam'>dmh_allmed_name_2</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_2</div></td>
+        <td><div class='shazam'>dmh_allmed_route_2</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_2</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_2</div></td>
+        <td><div class='shazam'>dmh_allmed_date_2</div></td>
     </tr>
     
     <tr>
-        <td><div class='shazam'>dmh_155</div></td>
-        <td><div class='shazam'>dmh_156</div></td>
-        <td><div class='shazam'>dmh_157</div></td>
-        <td><div class='shazam'>dmh_158</div></td>
-        <td><div class='shazam'>dmh_159</div></td>
-        <td><div class='shazam'>dmh_160</div></td>
+        <td><div class='shazam'>dmh_allmed_name_3</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_3</div></td>
+        <td><div class='shazam'>dmh_allmed_route_3</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_3</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_3</div></td>
+        <td><div class='shazam'>dmh_allmed_date_3</div></td>
     </tr>
 
     <tr>
-        <td><div class='shazam'>dmh_161</div></td>
-        <td><div class='shazam'>dmh_162</div></td>
-        <td><div class='shazam'>dmh_163</div></td>
-        <td><div class='shazam'>dmh_164</div></td>
-        <td><div class='shazam'>dmh_165</div></td>
-        <td><div class='shazam'>dmh_166</div></td>
+        <td><div class='shazam'>dmh_allmed_name_4</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_4</div></td>
+        <td><div class='shazam'>dmh_allmed_route_4</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_4</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_4</div></td>
+        <td><div class='shazam'>dmh_allmed_date_4</div></td>
     </tr>
 
     <tr>
-        <td><div class='shazam'>dmh_167</div></td>
-        <td><div class='shazam'>dmh_168</div></td>
-        <td><div class='shazam'>dmh_169</div></td>
-        <td><div class='shazam'>dmh_170</div></td>
-        <td><div class='shazam'>dmh_171</div></td>
-        <td><div class='shazam'>dmh_172</div></td>
+        <td><div class='shazam'>dmh_allmed_name_5</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_5</div></td>
+        <td><div class='shazam'>dmh_allmed_route_5</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_5</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_5</div></td>
+        <td><div class='shazam'>dmh_allmed_date_5</div></td>
     </tr>
 
     <tr>
-        <td><div class='shazam'>dmh_173</div></td>
-        <td><div class='shazam'>dmh_174</div></td>
-        <td><div class='shazam'>dmh_175</div></td>
-        <td><div class='shazam'>dmh_176</div></td>
-        <td><div class='shazam'>dmh_177</div></td>
-        <td><div class='shazam'>dmh_178</div></td>
+        <td><div class='shazam'>dmh_allmed_name_6</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_6</div></td>
+        <td><div class='shazam'>dmh_allmed_route_6</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_6</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_6</div></td>
+        <td><div class='shazam'>dmh_allmed_date_6</div></td>
     </tr>
 
     <tr>
-        <td><div class='shazam'>dmh_179</div></td>
-        <td><div class='shazam'>dmh_180</div></td>
-        <td><div class='shazam'>dmh_181</div></td>
-        <td><div class='shazam'>dmh_182</div></td>
-        <td><div class='shazam'>dmh_183</div></td>
-        <td><div class='shazam'>dmh_184</div></td>
+        <td><div class='shazam'>dmh_allmed_name_7</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_7</div></td>
+        <td><div class='shazam'>dmh_allmed_route_7</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_7</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_7</div></td>
+        <td><div class='shazam'>dmh_allmed_date_7</div></td>
+    </tr>
+ 
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_8</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_8</div></td>
+        <td><div class='shazam'>dmh_allmed_route_8</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_8</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_8</div></td>
+        <td><div class='shazam'>dmh_allmed_date_8</div></td>
+    </tr> 
+
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_9</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_9</div></td>
+        <td><div class='shazam'>dmh_allmed_route_9</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_9</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_9</div></td>
+        <td><div class='shazam'>dmh_allmed_date_9</div></td>
     </tr>
     
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_10</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_10</div></td>
+        <td><div class='shazam'>dmh_allmed_route_10</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_10</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_10</div></td>
+        <td><div class='shazam'>dmh_allmed_date_10</div></td>
+    </tr>
+
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_11</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_11</div></td>
+        <td><div class='shazam'>dmh_allmed_route_11</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_11</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_11</div></td>
+        <td><div class='shazam'>dmh_allmed_date_11</div></td>
+    </tr>
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_12</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_12</div></td>
+        <td><div class='shazam'>dmh_allmed_route_12</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_12</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_12</div></td>
+        <td><div class='shazam'>dmh_allmed_date_12</div></td>
+    </tr>    
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_13</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_13</div></td>
+        <td><div class='shazam'>dmh_allmed_route_13</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_13</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_13</div></td>
+        <td><div class='shazam'>dmh_allmed_date_13</div></td>
+    </tr>    
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_14</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_14</div></td>
+        <td><div class='shazam'>dmh_allmed_route_14</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_14</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_14</div></td>
+        <td><div class='shazam'>dmh_allmed_date_14</div></td>
+    </tr>    
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_15</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_15</div></td>
+        <td><div class='shazam'>dmh_allmed_route_15</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_15</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_15</div></td>
+        <td><div class='shazam'>dmh_allmed_date_15</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_16</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_16</div></td>
+        <td><div class='shazam'>dmh_allmed_route_16</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_16</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_16</div></td>
+        <td><div class='shazam'>dmh_allmed_date_16</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_17</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_17</div></td>
+        <td><div class='shazam'>dmh_allmed_route_17</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_17</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_17</div></td>
+        <td><div class='shazam'>dmh_allmed_date_17</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_18</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_18</div></td>
+        <td><div class='shazam'>dmh_allmed_route_18</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_18</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_18</div></td>
+        <td><div class='shazam'>dmh_allmed_date_18</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_19</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_19</div></td>
+        <td><div class='shazam'>dmh_allmed_route_19</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_19</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_19</div></td>
+        <td><div class='shazam'>dmh_allmed_date_19</div></td>
+    </tr> 
+    
+    <tr>
+        <td><div class='shazam'>dmh_allmed_name_20</div></td>
+        <td><div class='shazam'>dmh_allmed_dose_20</div></td>
+        <td><div class='shazam'>dmh_allmed_route_20</div></td>
+        <td><div class='shazam'>dmh_allmed_freq_20</div></td>
+        <td><div class='shazam'>dmh_allmed_indication_20</div></td>
+        <td><div class='shazam'>dmh_allmed_date_20</div></td>
+    </tr> 
 </table>
